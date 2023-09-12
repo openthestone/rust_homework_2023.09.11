@@ -1,0 +1,12 @@
+/home/ubuntu/rust-projects/mini-redis/target/debug/deps/metainfo-dabbadc121c49039.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/faststr_map.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/type_map.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/backward.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/forward.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/kv.rs
+
+/home/ubuntu/rust-projects/mini-redis/target/debug/deps/libmetainfo-dabbadc121c49039.rlib: /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/faststr_map.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/type_map.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/backward.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/forward.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/kv.rs
+
+/home/ubuntu/rust-projects/mini-redis/target/debug/deps/metainfo-dabbadc121c49039.d: /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/faststr_map.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/type_map.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/backward.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/forward.rs /home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/kv.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/faststr_map.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/type_map.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/backward.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/forward.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/metainfo-0.7.5/src/kv.rs:

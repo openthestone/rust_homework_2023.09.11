@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=volo.yml
+cargo:rerun-if-changed=/home/ubuntu/rust-projects/mini-redis/idl/mini_redis.thrift

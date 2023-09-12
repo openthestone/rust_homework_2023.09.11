@@ -1,0 +1,1 @@
+{"rustc":12888310004416206727,"features":"","target":0,"profile":0,"path":0,"deps":[[1787572983305178320,"build_script_build",false,7038684723693820889]],"local":[{"RerunIfChanged":{"output":"debug/build/volo-gen-0238e8d1d3475851/output","paths":["volo.yml","/home/ubuntu/rust-projects/mini-redis/idl/mini_redis.thrift"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
