@@ -12,7 +12,6 @@ async fn main() {
     let addr = volo::net::Address::from(addr);
     volo_gen::mini_redis::RedisServiceServer::new(S{map: Mutex::new(HashMap::<String,String>::new())})
         .layer_front(LogLayer)
-        // .layer_front(FilterLayer)
         .run(addr)
         .await
         .unwrap();

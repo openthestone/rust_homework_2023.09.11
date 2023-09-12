@@ -76,18 +76,6 @@ async fn main() {
             panic!("unknown command");
         }
     };
-    // let req = RedisRequest{
-    //     key: Some(FastStr::from("zju")),
-    //     value: Some(FastStr::from("114514")),
-    //     request_type: volo_gen::mini_redis::RequestType::Set,
-    //     expire_time: None,
-    // };
-    // let req = RedisRequest{
-    //     key: Some(FastStr::from("zju")),
-    //     value: None,
-    //     request_type: volo_gen::mini_redis::RequestType::Get,
-    //     expire_time: None,
-    // };
     let resp = CLIENT.redis_command(req).await;
     match resp {
         Ok(info) => tracing::info!("{:?}", info.value),
